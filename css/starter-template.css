@@ -1,7 +1,14 @@
 body {
   padding-top: 50px;
+    color: firebrick;
+    font-family: fantasy;
 }
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+h1 {
+    font-family: monospace;
+
+
 }
